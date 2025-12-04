@@ -316,10 +316,6 @@ This project demonstrates the complete workflow of:
 ✔ Understanding real-world ride-booking behavior
 
 
-📌 Create a **GitHub Cover Image (banner)**
-📌 Create a **Professional Project Summary for LinkedIn**
-📌 Generate **README badges**, **GIF analytics**, or **extra dashboards**
-
 # 🌐 **My Kaggle Profile**
 
 You can view the full implementation on Kaggle:
@@ -342,4 +338,4 @@ You can view the full implementation on Kaggle:
 
 ---
 
-Just tell me!
+Thank You!
